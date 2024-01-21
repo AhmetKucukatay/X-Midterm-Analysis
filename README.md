@@ -1,1 +1,1 @@
-To see my website, please click the link on the right, under the about section
+Here is the link to a website that created for this project: https://ahmetkucukatay.github.io/X-Midterm-Analysis/
